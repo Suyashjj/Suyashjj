@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **suyashjai2010@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/2vha2F](https://pdf.ac/2vha2F)
+- 📄 Know about my experiences [https://pdf.ac/2vha2F]([https://pdf.ac/2vha2F](https://amethyst-adel-71.tiiny.site/))
 
 - ⚡ Fun fact **Nicest guy you ever see**
 
