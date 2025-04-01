@@ -8,8 +8,9 @@
 
 ### 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suyashjj&theme=darkhub&margin-w=15&no-frame=true" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suyashjj&theme=darkhub&margin-w=15&no-frame=true&column=7" alt="GitHub Profile Trophy" />
 </p>
+
 
 - 🌱 I’m currently learning backend development **MERN Stack**
 
