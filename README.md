@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning backend development **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Suyashjj](https://github.com/Suyashjj)
+- 👨‍💻 All of my projects are available at [Repo Link](https://github.com/Suyashjj?tab=repositories)
 
 - 💬 Ask me about **react , tailwind**
 
