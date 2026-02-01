@@ -2,6 +2,12 @@
 
 ### Full Stack Developer | MERN Stack Enthusiast | Open to SDE & Full Stack Roles
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1p8rYLnPX4t31qxtj9A1TPMoWHZMlhcVD/view?usp=sharing">
+    <img src="https://img.shields.io/badge/📄_View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 I'm a passionate developer from India specializing in building scalable web applications using modern technologies. Currently seeking opportunities in Software Development Engineer (SDE) or MERN Full Stack roles.
 
 ---
@@ -67,9 +73,6 @@ I'm a passionate developer from India specializing in building scalable web appl
   </a>
   <a href="https://leetcode.com/u/Suyash351/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://drive.google.com/file/d/1p8rYLnPX4t31qxtj9A1TPMoWHZMlhcVD/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
 
