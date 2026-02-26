@@ -3,7 +3,7 @@
 ### Full Stack Developer | MERN Stack Enthusiast | Open to SDE & Full Stack Roles
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1p8rYLnPX4t31qxtj9A1TPMoWHZMlhcVD/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1NRNKlBb7jSST8FWusC4sBqOIyTAeW8zw/view?usp=sharing">
     <img src="https://img.shields.io/badge/📄_View_My_Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
